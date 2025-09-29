@@ -470,6 +470,27 @@
         "name": "PelisplusHDProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.bz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 18960,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 2,
+        "internalName": "Pelisplushd",
+        "description": "(Mexican) Movies/Series/Anime Extension",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pelisplushd.cs3",
+        "name": "Pelisplushd"
+    },
+    {
         "iconUrl": "https://pelis-plus.icu/assets/img/ic/favicon-96x96.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
@@ -601,6 +622,111 @@
         "internalName": "SoloLatinoProvider",
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/SoloLatinoProvider.cs3",
         "name": "SoloLatinoProvider"
+    },
+    {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 776296,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98",
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "version": 430,
+        "internalName": "StreamPlay",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 102722,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SuperstreamBeta",
+        "description": "SuperStream Beta (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/SuperstreamBeta.cs3",
+        "name": "SuperstreamBeta"
+    },
+    {
+        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+        "fileSize": 36639,
+        "status": 1,
+        "authors": [
+            "anhdaden",
+            "dogior"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "IPTV",
+        "description": "General IPTV player. Add a list in the settings and you'll see it in the plugins list in the home",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
+        "name": "IPTV"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/gMB8Eq9g9Uq6CXiOHcqatXpx-6HTexAzcQibTgpqAE756Fnt1Jyyp0j7S3UDKPztkA=w480-h960-rw",
+        "apiVersion": 1,
+        "URL del repositorio": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "tamaño del archivo": 28540,
+        "estado": 1,
+        "autores": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Vivir"
+        ],
+        "versión": 1,
+        "internalName": "XtreamIPTVProvider",
+        "description": "C\u1ea7n nh\u1eadp link Xtream IPTV, t\u00e0i kho\u1ea3n v\u00e0 m\u1eadt kh\u1ea9u \u0111\u1ec3 xem",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/XtreamIPTVProvider.cs3",
+        "nombre": "Proveedor de IPTV Xtream"
+    },
+    {
+        "iconUrl": "https://www.stremio.com/website/favicon.ico",
+        "apiVersion": 1,
+        "URL del repositorio": "https://codeberg.org/frezza147/test",
+        "tamaño del archivo": 93129,
+        "estado": 1,
+        "autores": [
+            "anhdaden",
+            "hexado"
+        ],
+        "tvTypes": [
+            "Series de TV",
+            "Anime",
+            "Película"
+        ],
+        "versión": 1,
+        "internalName": "StremioProvider",
+        "description": "El complemento usa Streamio",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/StremioProvider.cs3",
+        "nombre": "StremioProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tioanime.com&sz=%size%",
