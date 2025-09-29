@@ -148,25 +148,7 @@
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CinecalidadProvider.cs3",
         "name": "CinecalidadProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=comamosramen.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 35689,
-        "status": 0,
-        "language": "es",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 3,
-        "internalName": "ComamosRamenProvider",
-        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/ComamosRamenProvider.cs3",
-        "name": "ComamosRamenProvider"
-    },
-    {
+     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
