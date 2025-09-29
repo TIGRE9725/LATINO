@@ -16,7 +16,7 @@ class TV(
     private val sharedPref: SharedPreferences?
 ) : MainAPI() {
     override var mainUrl =
-        "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists"
+        "https://raw.githubusercontent.com/TIGRE9725/LATINO/refs/heads/main/playlists"
     override var name = "TV"
     override val hasMainPage = true
     override val hasQuickSearch = true
