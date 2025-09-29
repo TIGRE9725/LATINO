@@ -1,6 +1,6 @@
 {
-  "name": "Storm-ext LATINO",
-  "description": "A Storm-ext fork with the LATINO.",
+  "name": "LATINO",
+  "description": "LATINO.",
   "iconUrl": "https://raw.githubusercontent.com/TIGRE9725/LATINO/master/assets/repoIcon.jpg",
   "manifestVersion": 1,
   "pluginLists": [
