@@ -1,0 +1,41 @@
+[
+        {
+        "iconUrl": "https://play-lh.googleusercontent.com/gMB8Eq9g9Uq6CXiOHcqatXpx-6HTexAzcQibTgpqAE756Fnt1Jyyp0j7S3UDKPztkA=w480-h960-rw",
+        "apiVersion": 1,
+        "URL del repositorio": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "tamaño del archivo": 28540,
+        "estado": 1,
+        "autores": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Vivir"
+        ],
+        "versión": 1,
+        "internalName": "XtreamIPTVProvider",
+        "description": "C\u1ea7n nh\u1eadp link Xtream IPTV, t\u00e0i kho\u1ea3n v\u00e0 m\u1eadt kh\u1ea9u \u0111\u1ec3 xem",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/XtreamIPTVProvider.cs3",
+        "nombre": "Proveedor de IPTV Xtream"
+    },
+        {
+        "iconUrl": "https://www.stremio.com/website/favicon.ico",
+        "apiVersion": 1,
+        "URL del repositorio": "https://codeberg.org/frezza147/test",
+        "tamaño del archivo": 93129,
+        "estado": 1,
+        "autores": [
+            "anhdaden",
+            "hexado"
+        ],
+        "tvTypes": [
+            "Series de TV",
+            "Anime",
+            "Película"
+        ],
+        "versión": 1,
+        "internalName": "StremioProvider",
+        "description": "El complemento usa Streamio",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/StremioProvider.cs3",
+        "nombre": "StremioProvider"
+    }
+]
