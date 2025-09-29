@@ -13,7 +13,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 3,
+        "version": 6,
         "internalName": "TV",
         "description": "Live streams from the Free TV github repository. Forked from the Free-TV plugin in the ItalianProvider repo",
         "url": "https://github.com/TIGRE9725/LATINO/raw/e33a6fbc88f403f96d3395e74051fd8c41287b4c/TV.cs3",
