@@ -1,24 +1,5 @@
 [
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 18766,
-        "status": 0,
-        "language": "es",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 2,
-        "internalName": "AnimeflvIOProvider",
-        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/AnimeflvIOProvider.cs3",
-        "name": "AnimeflvIOProvider"
-    },
-    {
+        {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
@@ -354,25 +335,6 @@
         "name": "LatAnimeProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 16754,
-        "status": 0,
-        "language": "mx",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 7,
-        "internalName": "MonoschinosProvider",
-        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/MonoschinosProvider.cs3",
-        "name": "MonoschinosProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=mundodonghua.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
@@ -392,25 +354,7 @@
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/MundoDonghuaProvider.cs3",
         "name": "MundoDonghuaProvider"
     },
-    {
-        "iconUrl": "https://peliculasflix.co/img/logo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 22954,
-        "status": 0,
-        "language": "es",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "PeliculasFlixProvider",
-        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PeliculasFlixProvider.cs3",
-        "name": "PeliculasFlixProvider"
-    },
-    {
+        {
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelispedia.is&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
@@ -489,43 +433,6 @@
         "name": "PelisplusOrgProvider"
     },
     {
-        "iconUrl": "https://pelisplusgo.vip/favicon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 17623,
-        "status": 0,
-        "language": "mx",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "PelisplusSOProvider",
-        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PelisplusSOProvider.cs3",
-        "name": "PelisplusSOProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=playhublite.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 35372,
-        "status": 0,
-        "language": "mx",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "PlayhubProvider",
-        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PlayhubProvider.cs3",
-        "name": "PlayhubProvider"
-    },
-    {
         "iconUrl": "https://reydonghua.org/public/favicon.ico?v=4.71",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
@@ -542,25 +449,6 @@
         "internalName": "ReyDonghuaProvider",
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/ReyDonghuaProvider.cs3",
         "name": "ReyDonghuaProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 13481,
-        "status": 0,
-        "language": "es",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "SeriesflixProvider",
-        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/SeriesflixProvider.cs3",
-        "name": "SeriesflixProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=seriesmetro.net&sz=%size%",
