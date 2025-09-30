@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO",Multimedios Monterrey | HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Televisamty.mx" group-title="MEXICO",8 MTY.SD
@@ -29,49 +29,49 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="MEXICO",A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="AztecaDeportes.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/1280px-Logotipo_de_TV_Azteca.svg.png" group-title="MEXICO",AZTECA DEPORTES NETWORK 3
+#EXTINF:-1 tvg-id="AztecaDeportes.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/1280px-Logotipo_de_TV_Azteca.svg.png" group-title="DEPORTES",AZTECA DEPORTES NETWORK 3
 https://azt-dep.otteravision.com/azt/dep/dep.m3u8
-#EXTINF:-1 tvg-id="Aymsports.mx" tvg-logo="https://img3.static-ottera.com/prod/aym/linear_channel/thumbnails/widescreen/366x206/aym_sports_1920x1080_default.jpg" group-title="MEXICO",AYM SPORTS
+#EXTINF:-1 tvg-id="Aymsports.mx" tvg-logo="https://img3.static-ottera.com/prod/aym/linear_channel/thumbnails/widescreen/366x206/aym_sports_1920x1080_default.jpg" group-title="DEPORTES",AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as.m3u8
-#EXTINF:-1 tvg-id="AztecaDeportes.mx" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/featuredImage.jpg" group-title="MEXICO",AZTECA DEPORTES NETWORK 2
+#EXTINF:-1 tvg-id="AztecaDeportes.mx" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/featuredImage.jpg" group-title="DEPORTES",AZTECA DEPORTES NETWORK 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-826340d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-38308ffdc596
-#EXTINF:-1 tvg-id="Itvdeportes.mx" tvg-logo="https://img2.static-ottera.com/prod/aym/linear_channel/logo/366x206/logo_itv_3200x2400.jpg" group-title="MEXICO",ITV Deportes
+#EXTINF:-1 tvg-id="Itvdeportes.mx" tvg-logo="https://img2.static-ottera.com/prod/aym/linear_channel/logo/366x206/logo_itv_3200x2400.jpg" group-title="DEPORTES",ITV Deportes
 https://thm-it.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="Las.mx" tvg-logo="https://img3.static-ottera.com/prod/aym/linear_channel/logo/366x206/9hqHFlAP1rlsc1TyqFP7GMHjF_naZuvgNHqSuewL0No.jpg" group-title="MEXICO",Latin American Sport
+#EXTINF:-1 tvg-id="Las.mx" tvg-logo="https://img3.static-ottera.com/prod/aym/linear_channel/logo/366x206/9hqHFlAP1rlsc1TyqFP7GMHjF_naZuvgNHqSuewL0No.jpg" group-title="DEPORTES",Latin American Sport
 https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBI
 https://live-manifest.production-public.tubi.io/live/bedd6cce-fd00-49a6-adc5-e1234616fc71/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBI OP2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBI OP2
 https://apollo.production-public.tubi.io/live/fox-en-tubi-dai-iVfxRy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/OJg87rAukXkS1Q==/2cebdc46-9cb3-4f0d-9f98-ac7278c922d9/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBIXTRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/OJg87rAukXkS1Q==/2cebdc46-9cb3-4f0d-9f98-ac7278c922d9/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBIXTRA
 https://aegis-akamai.tubi.video/c5dacf9a-08c0-4d28-9e76-a26dbc575267/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canvas-lb.tubitv.com/opts/NWMPsJlZi2L8Ag==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBIXTRA OP2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canvas-lb.tubitv.com/opts/NWMPsJlZi2L8Ag==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBIXTRA OP2
 https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBI COSTA RICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBI COSTA RICA
 https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBI2 COSTA RICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBI2 COSTA RICA
 https://aegis-akamai.tubi.video/821a4f4e-60b5-4085-b936-75d623337879/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBI3 COSTA RICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBI3 COSTA RICA
 https://aegis-fastly.tubi.video/0766b02e-3d69-43a9-a52e-0a1c53619e0b/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBI4 COSTA RICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/vUTmDiTIpkyPXw==/84f7b8d8-b91e-422c-a1d5-07e4bc70ea22/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBI4 COSTA RICA
 https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/NWMPsJlZi2L8Ag==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBIXTRA COSTA RICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/NWMPsJlZi2L8Ag==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBIXTRA COSTA RICA
 https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/NWMPsJlZi2L8Ag==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjhAAQ==" group-title="MEXICO",FOX EN TUBIXTRA2 COSTA RICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/NWMPsJlZi2L8Ag==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",FOX EN TUBIXTRA2 COSTA RICA
 https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist.m3u8
-#EXTINF:-1 tvg-id="Clarosports.mx" tvg-logo="https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png" group-title="MEXICO", CLARO SPORTS
+#EXTINF:-1 tvg-id="Clarosports.mx" tvg-logo="https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png" group-title="DEPORTES", CLARO SPORTS
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 tvg-id="Clarosports.mx" tvg-logo="https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png" group-title="MEXICO",Claro sports
+#EXTINF:-1 tvg-id="Clarosports.mx" tvg-logo="https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png" group-title="DEPORTES",Claro sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA884/0-16x9.jpg?width=770&updatedTime=0&dt=Web" group-title="MEXICO",Canela Deportes
 https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", BEIN SPORTS XTRA
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA
 https://apollo.production-public.tubi.io/live/bein-sports-xtra-VRe7uC.m3u8
-#EXTINF:-1 group-title="MEXICO", BEIN SPORTS XTRA2
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA2
 https://live-manifest.production-public.tubi.io/live/2fd3d156-b63c-47c8-9d04-5961ddd9cee8/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", BEIN SPORTS XTRAÑ
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRAÑ
 https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logotudn-2.jpg" group-title="MEXICO", BEIN SPORTS EXTRAÑ
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logotudn-2.jpg" group-title="DEPORTES", BEIN SPORTS EXTRAÑ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/ISYhR90.png" group-title="MEXICO",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -95,13 +95,13 @@ https://traceurban.akamaized.net/hls/live/2104850/traceurban/playlist.m3u8
 https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-1 tvg-id="" tvg-logo="noimage.png" group-title="MEXICO",LOVE NATURE
 https://dbrb49pjoymg4.cloudfront.net/10001/99991775/hls/playlist.m3u8?ads.xumo_channelId=99991775
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/thumbnail-square_1200x1200_v5.jpg" group-title="MEXICO",Popcorn Central(6.4)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/thumbnail-square_1200x1200_v5.jpg" group-title="PELICULAS",Popcorn Central(6.4)
 https://freetv.stream.olympusatmedia.com/index.m3u8
-#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="MEXICO",MX NUESTRO CINE
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="PELICULAS",MX NUESTRO CINE
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/live.jpg" group-title="MEXICO",FreeTV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/live.jpg" group-title="PELICULAS",FreeTV
 https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="MEXICO",RunTime
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="PELICULAS",RunTime
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/aztecauno_c_1920x1080.jpg" group-title="MEXICO",AztecaUno-1h
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
@@ -111,29 +111,29 @@ https://azt-cz-runtime.otteravision.com/azt/cz/cz.m3u8
 https://azt-cl-runtime.otteravision.com/azt/cl/cl.m3u8
 #EXTINF:-1 tvg-id="Imagentv.mx" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/imagen_c_1920x1080_2024.jpg" group-title="MEXICO",ImagenTV+ -1HR
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1559/CH_LOGO/60/60/0/0/5384649507947.png" group-title="MEXICO",TUDN
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1559/CH_LOGO/60/60/0/0/5384649507947.png" group-title="DEPORTES",TUDN
 https://cdn-edge1.cef-technology.com/bpk-tv/tudn/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1550/CH_LOGO/60/60/0/0/81452099071150.png" group-title="MEXICO",ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1550/CH_LOGO/60/60/0/0/81452099071150.png" group-title="DEPORTES",ESPN HD
 https://cdn-edge1.cef-technology.com/bpk-tv/espn/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1551/CH_LOGO/60/60/0/0/99122930071149.png" group-title="MEXICO",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1551/CH_LOGO/60/60/0/0/99122930071149.png" group-title="DEPORTES",ESPN 2 HD
 https://cdn-edge1.cef-technology.com/bpk-tv/espn_2/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1552/CH_LOGO/60/60/0/0/35966892072336.png" group-title="MEXICO",ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1552/CH_LOGO/60/60/0/0/35966892072336.png" group-title="DEPORTES",ESPN 3 HD
 https://cdn-edge1.cef-technology.com/bpk-tv/espn_3/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1553/CH_LOGO/60/60/0/0/80648514076869.png" group-title="MEXICO",ESPN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1553/CH_LOGO/60/60/0/0/80648514076869.png" group-title="DEPORTES",ESPN 4 HD
 https://cdn-edge1.cef-technology.com/bpk-tv/espn_extra/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1554/CH_LOGO/60/60/0/0/1691066907577.png" group-title="MEXICO",FOX SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1554/CH_LOGO/60/60/0/0/1691066907577.png" group-title="DEPORTES",FOX SPORTS HD
 https://cdn-edge1.cef-technology.com/bpk-tv/fs/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1555/CH_LOGO/60/60/0/0/75759878071266.png" group-title="MEXICO",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1555/CH_LOGO/60/60/0/0/75759878071266.png" group-title="DEPORTES",FOX SPORTS 2 HD
 https://cdn-edge1.cef-technology.com/bpk-tv/fs2/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1556/CH_LOGO/60/60/0/0/24457821071101.png" group-title="MEXICO",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1556/CH_LOGO/60/60/0/0/24457821071101.png" group-title="DEPORTES",FOX SPORTS 3 HD
 https://cdn-edge1.cef-technology.com/bpk-tv/fs3/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1557/CH_LOGO/60/60/0/0/71981247077166.png" group-title="MEXICO",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1557/CH_LOGO/60/60/0/0/71981247077166.png" group-title="DEPORTES",FOX SPORTS PREMIUM
 https://cdn-edge1.cef-technology.com/bpk-tv/fs_premium/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1625/CH_LOGO/60/60/0/0/35144813078767.png" group-title="MEXICO",AZTECA DEPORTES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1625/CH_LOGO/60/60/0/0/35144813078767.png" group-title="DEPORTES",AZTECA DEPORTES HD
 https://cdn-edge1.cef-technology.com/bpk-tv/az_deportes/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Calientetv.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1851/CH_LOGO/60/60/0/0/38785359078543.png" group-title="MEXICO",HI SPORTS HD
+#EXTINF:-1 tvg-id="Calientetv.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1851/CH_LOGO/60/60/0/0/38785359078543.png" group-title="DEPORTES",HI SPORTS HD
 https://cdn-edge1.cef-technology.com/bpk-tv/caliente_tv/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1561/CH_LOGO/60/60/0/0/9037057607492.png" group-title="MEXICO",DISCOVERY TURBO SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1561/CH_LOGO/60/60/0/0/9037057607492.png" group-title="DEPORTES",DISCOVERY TURBO SD
 https://cdn-edge1.cef-technology.com/bpk-tv/turbo/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1484/CH_LOGO/60/60/0/0/17628869073173.png" group-title="MEXICO",MULTIMEDIOS PLUS HD
 https://cdn-edge1.cef-technology.com/bpk-tv/multimedios/cdn_2/index.mpd
@@ -147,29 +147,29 @@ https://cdn-edge1.cef-technology.com/bpk-tv/zu_azteca_uno/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/zu_las_estrellas/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1478/CH_LOGO/60/60/0/0/57971111071047.png" group-title="MEXICO",NUEVE
 https://cdn-edge1.cef-technology.com/bpk-tv/nueve/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1521/CH_LOGO/60/60/0/0/62444007071959.png" group-title="MEXICO",BITME
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1521/CH_LOGO/60/60/0/0/62444007071959.png" group-title="INFANTIL",BITME
 https://cdn-edge1.cef-technology.com/bpk-tv/bitme/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1485/CH_LOGO/60/60/0/0/73631184071068.png" group-title="MEXICO",UNICABLE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1485/CH_LOGO/60/60/0/0/73631184071068.png" group-title="ENTRETENIMIENTO",UNICABLE
 https://cdn-edge1.cef-technology.com/bpk-tv/unicable/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1558/CH_LOGO/60/60/0/0/39210333072793.png" group-title="MEXICO",ADRENALINA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1558/CH_LOGO/60/60/0/0/39210333072793.png" group-title="DEPORTES",ADRENALINA
 https://cdn-edge1.cef-technology.com/bpk-tv/adrenalina/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1502/CH_LOGO/60/60/0/0/1327984607703.png" group-title="MEXICO",DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1502/CH_LOGO/60/60/0/0/1327984607703.png" group-title="PELICULAS",DISTRITO COMEDIA
 https://cdn-edge1.cef-technology.com/bpk-tv/distrito_comedia/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1527/CH_LOGO/60/60/0/0/3444592707137.png" group-title="MEXICO",DE PELICULA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1527/CH_LOGO/60/60/0/0/3444592707137.png" group-title="PELICULAS",DE PELICULA
 https://cdn-edge1.cef-technology.com/bpk-tv/de_pelicula/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1530/CH_LOGO/60/60/0/0/1014345607474.png" group-title="MEXICO",GOLDEN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1530/CH_LOGO/60/60/0/0/1014345607474.png" group-title="PELICULAS",GOLDEN
 https://cdn-edge1.cef-technology.com/bpk-tv/golden/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1531/CH_LOGO/60/60/0/0/16359900077414.png" group-title="MEXICO",GOLDEN EDGE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1531/CH_LOGO/60/60/0/0/16359900077414.png" group-title="PELICULAS",GOLDEN EDGE
 https://cdn-edge1.cef-technology.com/bpk-tv/golden_edge/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1476/CH_LOGO/60/60/0/0/35800643071080.png" group-title="MEXICO",FORO TV
 https://cdn-edge1.cef-technology.com/bpk-tv/foro_tv/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1469/CH_LOGO/60/60/0/0/66805025071564.png" group-title="MEXICO",TELEHIT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1469/CH_LOGO/60/60/0/0/66805025071564.png" group-title="MUSICA",TELEHIT
 https://cdn-edge1.cef-technology.com/bpk-tv/telehit/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1468/CH_LOGO/60/60/0/0/12214609071565.png" group-title="MEXICO",TELEHIT MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1468/CH_LOGO/60/60/0/0/12214609071565.png" group-title="MUSICA",TELEHIT MUSICA
 https://cdn-edge1.cef-technology.com/bpk-tv/telehit_musica/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1501/CH_LOGO/60/60/0/0/25441204071806.png" group-title="MEXICO",AZTECA CLIC HD
 https://cdn-edge1.cef-technology.com/bpk-tv/az_clic/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1538/CH_LOGO/60/60/0/0/10749962073159.png" group-title="MEXICO",AZTECA CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1538/CH_LOGO/60/60/0/0/10749962073159.png" group-title="PELICULAS",AZTECA CINEMA HD
 https://cdn-edge1.cef-technology.com/bpk-tv/az_cinema/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1861/CH_LOGO/60/60/0/0/48943895074260.png" group-title="MEXICO",AMAS SD
 https://cdn-edge1.cef-technology.com/bpk-tv/amas/cdn_2/index.mpd
@@ -179,131 +179,132 @@ https://cdn-edge1.cef-technology.com/bpk-tv/milenio/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/imagen_tv/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1568/CH_LOGO/60/60/0/0/24426035073282.png" group-title="MEXICO",ADN 40 SD
 https://cdn-edge1.cef-technology.com/bpk-tv/adn_40/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1503/CH_LOGO/60/60/0/0/36455147074217.png" group-title="MEXICO",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1503/CH_LOGO/60/60/0/0/36455147074217.png" group-title="PELICULAS",COMEDY CENTRAL HD
 https://cdn-edge1.cef-technology.com/bpk-tv/cc/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1535/CH_LOGO/60/60/0/0/2294895407442.png" group-title="MEXICO",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1535/CH_LOGO/60/60/0/0/2294895407442.png" group-title="PELICULAS",TNT HD
 https://cdn-edge1.cef-technology.com/bpk-tv/zu_tnt/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1497/CH_LOGO/60/60/0/0/49080754073040.png" group-title="MEXICO",TNT SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1497/CH_LOGO/60/60/0/0/49080754073040.png" group-title="PELICULAS",TNT SERIES HD
 https://cdn-edge1.cef-technology.com/bpk-tv/tnt_series/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Tntnovelas.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1495/CH_LOGO/60/60/0/0/97111057078200.png" group-title="MEXICO",TNT NOVELAS
+#EXTINF:-1 tvg-id="Tntnovelas.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1495/CH_LOGO/60/60/0/0/97111057078200.png" group-title="PELICULAS",TNT NOVELAS
 https://cdn-edge1.cef-technology.com/bpk-tv/tnt_novelas/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1492/CH_LOGO/60/60/0/0/84850065071122.png" group-title="MEXICO",AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1492/CH_LOGO/60/60/0/0/84850065071122.png" group-title="PELICULAS",AXN HD
 https://cdn-edge1.cef-technology.com/bpk-tv/axn/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1493/CH_LOGO/60/60/0/0/5847501407430.png" group-title="MEXICO",A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1493/CH_LOGO/60/60/0/0/5847501407430.png" group-title="PELICULAS",A&E HD
 https://cdn-edge1.cef-technology.com/bpk-tv/ae/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1528/CH_LOGO/60/60/0/0/5462636907508.png" group-title="MEXICO",CINE LATINO SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1528/CH_LOGO/60/60/0/0/5462636907508.png" group-title="PELICULAS",CINE LATINO SD
 https://cdn-edge1.cef-technology.com/bpk-tv/cine_latino/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1532/CH_LOGO/60/60/0/0/6313056107242.png" group-title="MEXICO",CINECANAL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1532/CH_LOGO/60/60/0/0/6313056107242.png" group-title="PELICULAS",CINECANAL HD
 https://cdn-edge1.cef-technology.com/bpk-tv/cinecanal/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1536/CH_LOGO/60/60/0/0/64518568071576.png" group-title="MEXICO",CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1536/CH_LOGO/60/60/0/0/64518568071576.png" group-title="PELICULAS",CINEMAX HD
 https://cdn-edge1.cef-technology.com/bpk-tv/cinemax/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1488/CH_LOGO/60/60/0/0/2720661207498.png" group-title="MEXICO",FX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1488/CH_LOGO/60/60/0/0/2720661207498.png" group-title="PELICULAS",FX HD
 https://cdn-edge1.cef-technology.com/bpk-tv/fx/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1482/CH_LOGO/60/60/0/0/71394396071212.png" group-title="MEXICO",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1482/CH_LOGO/60/60/0/0/71394396071212.png" group-title="PELICULAS",STAR CHANNEL HD
 https://cdn-edge1.cef-technology.com/bpk-tv/zu_star/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1483/CH_LOGO/60/60/0/0/5865533907447.png" group-title="MEXICO",SONY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1483/CH_LOGO/60/60/0/0/5865533907447.png" group-title="PELICULAS",SONY HD
 https://cdn-edge1.cef-technology.com/bpk-tv/sony/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1534/CH_LOGO/60/60/0/0/17982872076336.png" group-title="MEXICO",SONY MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1534/CH_LOGO/60/60/0/0/17982872076336.png" group-title="PELICULAS",SONY MOVIES HD
 https://cdn-edge1.cef-technology.com/bpk-tv/sony_movies/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1491/CH_LOGO/60/60/0/0/16733618078329.png" group-title="MEXICO",USA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1491/CH_LOGO/60/60/0/0/16733618078329.png" group-title="PELICULAS",USA HD
 https://cdn-edge1.cef-technology.com/bpk-tv/usa/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1537/CH_LOGO/60/60/0/0/38175922071370.png" group-title="MEXICO",SPACE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1537/CH_LOGO/60/60/0/0/38175922071370.png" group-title="PELICULAS",SPACE HD
 https://cdn-edge1.cef-technology.com/bpk-tv/space/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1529/CH_LOGO/60/60/0/0/13943632074249.png" group-title="MEXICO",PARAMOUNT HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1529/CH_LOGO/60/60/0/0/13943632074249.png" group-title="PELICULAS",PARAMOUNT HD
 https://cdn-edge1.cef-technology.com/bpk-tv/paramount/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1486/CH_LOGO/60/60/0/0/73424237071133.png" group-title="MEXICO",WARNER HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1486/CH_LOGO/60/60/0/0/73424237071133.png" group-title="PELICULAS",WARNER HD
 https://cdn-edge1.cef-technology.com/bpk-tv/warner/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1489/CH_LOGO/60/60/0/0/8228173607449.png" group-title="MEXICO",UNIVERSAL TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1489/CH_LOGO/60/60/0/0/8228173607449.png" group-title="PELICULAS",UNIVERSAL TV HD
 https://cdn-edge1.cef-technology.com/bpk-tv/universal/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1533/CH_LOGO/60/60/0/0/4603931007516.png" group-title="MEXICO",STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1533/CH_LOGO/60/60/0/0/4603931007516.png" group-title="PELICULAS",STUDIO UNIVERSAL HD
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_studio/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1855/CH_LOGO/60/60/0/0/62358004078383.png" group-title="MEXICO",ADULT SWIM HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1855/CH_LOGO/60/60/0/0/62358004078383.png" group-title="PELICULAS",ADULT SWIM HD
 https://cdn-edge1.cef-technology.com/bpk-tv/adult_swim/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1539/CH_LOGO/60/60/0/0/6068125507246.png" group-title="MEXICO",HBO HD
+#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1539/CH_LOGO/60/60/0/0/6068125507246.png" group-title="PELICULAS",HBO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/hbo/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1540/CH_LOGO/60/60/0/0/15453684072900.png" group-title="MEXICO",HBO2 HD
+#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1540/CH_LOGO/60/60/0/0/15453684072900.png" group-title="PELICULAS",HBO2 HD
 https://cdn-edge1.cef-technology.com/bpk-tv/hbo_2/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1542/CH_LOGO/60/60/0/0/9302991207335.png" group-title="MEXICO",HBO FAMILY HD
+#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1542/CH_LOGO/60/60/0/0/9302991207335.png" group-title="PELICULAS",HBO FAMILY HD
 https://cdn-edge1.cef-technology.com/bpk-tv/hbo_family/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1543/CH_LOGO/60/60/0/0/82703682072688.png" group-title="MEXICO",HBO XTREME HD
+#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1543/CH_LOGO/60/60/0/0/82703682072688.png" group-title="PELICULAS",HBO XTREME HD
 https://cdn-edge1.cef-technology.com/bpk-tv/hbo_xtreme/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1545/CH_LOGO/60/60/0/0/75915293077076.png" group-title="MEXICO",UNIVERSAL PREMIER
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1545/CH_LOGO/60/60/0/0/75915293077076.png" group-title="PELICULAS",UNIVERSAL PREMIER
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_premier/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1546/CH_LOGO/60/60/0/0/20322300077666.png" group-title="MEXICO",UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1546/CH_LOGO/60/60/0/0/20322300077666.png" group-title="PELICULAS",UNIVERSAL CINEMA
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_cinema/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1547/CH_LOGO/60/60/0/0/82776850077515.png" group-title="MEXICO",UNIVERSAL COMEDY
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1547/CH_LOGO/60/60/0/0/82776850077515.png" group-title="PELICULAS",UNIVERSAL COMEDY
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_comedy/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1548/CH_LOGO/60/60/0/0/12089380077075.png" group-title="MEXICO",UNIVERSAL CRIME
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1548/CH_LOGO/60/60/0/0/12089380077075.png" group-title="PELICULAS",UNIVERSAL CRIME
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_crime/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1549/CH_LOGO/60/60/0/0/34529005077518.png" group-title="MEXICO",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1549/CH_LOGO/60/60/0/0/34529005077518.png" group-title="PELICULAS",UNIVERSAL REALITY
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_reality/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1499/CH_LOGO/60/60/0/0/11186000072879.png" group-title="MEXICO",LIFETIME HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1499/CH_LOGO/60/60/0/0/11186000072879.png" group-title="PELICULAS",LIFETIME HD
 https://cdn-edge1.cef-technology.com/bpk-tv/life_time/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1498/CH_LOGO/60/60/0/0/20471349071152.png" group-title="MEXICO",TELEMUNDO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1498/CH_LOGO/60/60/0/0/20471349071152.png" group-title="ENTRETENIMIENTO",TELEMUNDO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/telemundo/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1853/CH_LOGO/60/60/0/0/79552043079024.png" group-title="MEXICO",POPCORN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1853/CH_LOGO/60/60/0/0/79552043079024.png" group-title="PELICULAS",POPCORN HD
 https://cdn-edge1.cef-technology.com/bpk-tv/popcorn/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MEXICO",DISCOVERY KIDS SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS SD
 https://cdn-edge1.cef-technology.com/bpk-tv/kids/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1517/CH_LOGO/60/60/0/0/5292566307874.png" group-title="MEXICO",DISNEY CHANNEL SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1517/CH_LOGO/60/60/0/0/5292566307874.png" group-title="INFANTIL",DISNEY CHANNEL SD
 https://cdn-edge1.cef-technology.com/bpk-tv/zu_disney/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1518/CH_LOGO/60/60/0/0/7532677307817.png" group-title="MEXICO",DISNEY JR SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1518/CH_LOGO/60/60/0/0/7532677307817.png" group-title="INFANTIL",DISNEY JR SD
 https://cdn-edge1.cef-technology.com/bpk-tv/disney_jr/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1519/CH_LOGO/60/60/0/0/2752539007297.png" group-title="MEXICO",NICK SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1519/CH_LOGO/60/60/0/0/2752539007297.png" group-title="INFANTIL",NICK SD
 https://cdn-edge1.cef-technology.com/bpk-tv/nick/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1520/CH_LOGO/60/60/0/0/80112659071227.png" group-title="MEXICO",NICK JR SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1520/CH_LOGO/60/60/0/0/80112659071227.png" group-title="INFANTIL",NICK JR SD
 https://cdn-edge1.cef-technology.com/bpk-tv/nick_jr/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1524/CH_LOGO/60/60/0/0/3458997307402.png" group-title="MEXICO",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1524/CH_LOGO/60/60/0/0/3458997307402.png" group-title="INFANTIL",CARTOON NETWORK HD
 https://cdn-edge1.cef-technology.com/bpk-tv/zu_cartoon/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1525/CH_LOGO/60/60/0/0/3817151507422.png" group-title="MEXICO",CARTOONITO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1525/CH_LOGO/60/60/0/0/3817151507422.png" group-title="INFANTIL",CARTOONITO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/cartoonito/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1522/CH_LOGO/60/60/0/0/73504675073136.png" group-title="MEXICO",ONCE NIÑOS SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1522/CH_LOGO/60/60/0/0/73504675073136.png" group-title="INFANTIL",ONCE NIÑOS SD
 https://cdn-edge1.cef-technology.com/bpk-tv/once_ninos/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1526/CH_LOGO/60/60/0/0/2093337107695.png" group-title="MEXICO",BABY TV SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1526/CH_LOGO/60/60/0/0/2093337107695.png" group-title="INFANTIL",BABY TV SD
 https://cdn-edge1.cef-technology.com/bpk-tv/baby_tv/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1523/CH_LOGO/60/60/0/0/56302170073271.png" group-title="MEXICO",ZOOMOO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1523/CH_LOGO/60/60/0/0/56302170073271.png" group-title="INFANTIL",ZOOMOO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/zoomoo/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1845/CH_LOGO/60/60/0/0/62242029078010.png" group-title="MEXICO",PLIM PLIM HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1845/CH_LOGO/60/60/0/0/62242029078010.png" group-title="INFANTIL",PLIM PLIM HD
 https://cdn-edge1.cef-technology.com/bpk-tv/plim_plim/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1509/CH_LOGO/60/60/0/0/15272029073062.png" group-title="MEXICO",DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1509/CH_LOGO/60/60/0/0/15272029073062.png" group-title="ENTRETENIMIENTO",DISCOVERY HD
 https://cdn-edge1.cef-technology.com/bpk-tv/discovery/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1490/CH_LOGO/60/60/0/0/7554374007436.png" group-title="MEXICO",DISCOVERY ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1490/CH_LOGO/60/60/0/0/7554374007436.png" group-title="ENTRETENIMIENTO",DISCOVERY ID
 https://cdn-edge1.cef-technology.com/bpk-tv/id/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1494/CH_LOGO/60/60/0/0/98813050071135.png" group-title="MEXICO",DISCOVERY HH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1494/CH_LOGO/60/60/0/0/98813050071135.png" group-title="ENTRETENIMIENTO",DISCOVERY HH
 https://cdn-edge1.cef-technology.com/bpk-tv/hh/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1508/CH_LOGO/60/60/0/0/9300207107472.png" group-title="MEXICO",NATGEO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1508/CH_LOGO/60/60/0/0/9300207107472.png" group-title="ENTRETENIMIENTO",NATGEO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/natgeo/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1513/CH_LOGO/60/60/0/0/736581200785.png" group-title="MEXICO",ANIMAL PLANET SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1513/CH_LOGO/60/60/0/0/736581200785.png" group-title="ENTRETENIMIENTO",ANIMAL PLANET SD
 https://cdn-edge1.cef-technology.com/bpk-tv/animal/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1512/CH_LOGO/60/60/0/0/53583239074718.png" group-title="MEXICO",LOVE NATURE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1512/CH_LOGO/60/60/0/0/53583239074718.png" group-title="ENTRETENIMIENTO",LOVE NATURE
 https://cdn-edge1.cef-technology.com/bpk-tv/love_nature/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1852/CH_LOGO/60/60/0/0/98135482073438.png" group-title="MEXICO",FOOD NETWORK SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1852/CH_LOGO/60/60/0/0/98135482073438.png" group-title="ENTRETENIMIENTO",FOOD NETWORK SD
 https://cdn-edge1.cef-technology.com/bpk-tv/food/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1844/CH_LOGO/60/60/0/0/41334522078033.png" group-title="MEXICO",GUSTO TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1844/CH_LOGO/60/60/0/0/41334522078033.png" group-title="ENTRETENIMIENTO",GUSTO TV
 https://cdn-edge1.cef-technology.com/bpk-tv/gusto_tv/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1507/CH_LOGO/60/60/0/0/8630110007444.png" group-title="MEXICO",HISTORY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1507/CH_LOGO/60/60/0/0/8630110007444.png" group-title="ENTRETENIMIENTO",HISTORY HD
 https://cdn-edge1.cef-technology.com/bpk-tv/history/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1511/CH_LOGO/60/60/0/0/58625172072766.png" group-title="MEXICO",TLC SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1511/CH_LOGO/60/60/0/0/58625172072766.png" group-title="ENTRETENIMIENTO",TLC SD
 https://cdn-edge1.cef-technology.com/bpk-tv/tlc/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1487/CH_LOGO/60/60/0/0/3853899707490.png" group-title="MEXICO",E HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1487/CH_LOGO/60/60/0/0/3853899707490.png" group-title="ENTRETENIMIENTO",E HD
 https://cdn-edge1.cef-technology.com/bpk-tv/e/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1854/CH_LOGO/60/60/0/0/620912650761.png" group-title="MEXICO",ANTENA 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1854/CH_LOGO/60/60/0/0/620912650761.png" group-title="ENTRETENIMIENTO",ANTENA 3 SD
 https://cdn-edge1.cef-technology.com/bpk-tv/antena_3/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1467/CH_LOGO/60/60/0/0/84620940071058.png" group-title="MEXICO",TELERITMO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1467/CH_LOGO/60/60/0/0/84620940071058.png" group-title="MUSICA",TELERITMO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/teleritmo/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1465/CH_LOGO/60/60/0/0/76547779078359.png" group-title="MEXICO",LA MEXICANA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1465/CH_LOGO/60/60/0/0/76547779078359.png" group-title="MUSICA",LA MEXICANA HD
 https://cdn-edge1.cef-technology.com/bpk-tv/la_mexicana_tv/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1471/CH_LOGO/60/60/0/0/41502810076698.png" group-title="MEXICO",LA MEJOR SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1471/CH_LOGO/60/60/0/0/41502810076698.png" group-title="MUSICA",LA MEJOR SD
 https://cdn-edge1.cef-technology.com/bpk-tv/la_mejor/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1466/CH_LOGO/60/60/0/0/7691902807296.png" group-title="MEXICO",MTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1466/CH_LOGO/60/60/0/0/7691902807296.png" group-title="MUSICA",MTV HD
 https://cdn-edge1.cef-technology.com/bpk-tv/mtv/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1474/CH_LOGO/60/60/0/0/7465356307319.png" group-title="MEXICO",MTV00 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1474/CH_LOGO/60/60/0/0/7465356307319.png" group-title="MUSICA",MTV00 HD
 https://cdn-edge1.cef-technology.com/bpk-tv/mtv_oo/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1473/CH_LOGO/60/60/0/0/12157011077817.png" group-title="MEXICO",ULTRA BANDA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1473/CH_LOGO/60/60/0/0/12157011077817.png" group-title="MUSICA",ULTRA BANDA HD
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_banda/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1848/CH_LOGO/60/60/0/0/25467190077878.png" group-title="MEXICO",ULTRA LUNA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1848/CH_LOGO/60/60/0/0/25467190077878.png" group-title="MUSICA",ULTRA LUNA HD
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_luna/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1849/CH_LOGO/60/60/0/0/43924579077824.png" group-title="MEXICO",ULTRA TRAINMENT HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1849/CH_LOGO/60/60/0/0/43924579077824.png" group-title="MUSICA",ULTRA TRAINMENT HD
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_trainment/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1847/CH_LOGO/60/60/0/0/65647323078539.png" group-title="MEXICO",ULTRA CLASICO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1847/CH_LOGO/60/60/0/0/65647323078539.png" group-title="MUSICA",ULTRA CLASICO HD
+
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_clasico/cdn_2/index.mpd
