@@ -9,8 +9,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Leon-en-VIVO-Online-.png" group-title="MEXICO",Canal 28 NL
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="Televisamty.mx" group-title="MEXICO",REPETICION TELEVISA MTY
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 #EXTINF:-1 tvg-id="AmasMTY.mx" tvg-name="A MAS MTY" tvg-logo="http://198.211.98.67/aleph-news-wh-fcm/feed/Android/backdrop_monterrey.jpg" group-title="MEXICO",AZTECA NORESTE MTY
 https://view.dacast.com/d7f35e29-5939-66ac-a823-7a68cf79aa75-live-4fc786b7-431e-b879-d9cb-9bca44d62156/adaptive.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525568-8c.png" group-title="MEXICO",MILENIO
@@ -308,3 +306,4 @@ https://cdn-edge1.cef-technology.com/bpk-tv/ultra_trainment/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1847/CH_LOGO/60/60/0/0/65647323078539.png" group-title="MUSICA",ULTRA CLASICO HD
 
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_clasico/cdn_2/index.mpd
+
