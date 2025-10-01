@@ -1,23 +1,23 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO",Multimedios Monterrey | HD
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MONTERREY",Multimedios Monterrey | HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="Televisamty.mx" group-title="MEXICO",8 MTY.SD
+#EXTINF:-1 tvg-id="Televisamty.mx" group-title="MONTERREY",8 MTY.SD
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" group-title="MEXICO",MULTIMEDIOS MTY
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" group-title="MONTERREY",MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="Televisamty.mx" group-title="MEXICO",8 MTY
+#EXTINF:-1 tvg-id="Televisamty.mx" group-title="MONTERREY",8 MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Leon-en-VIVO-Online-.png" group-title="MEXICO",Canal 28 NL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Leon-en-VIVO-Online-.png" group-title="MONTERREY",Canal 28 NL
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="AmasMTY.mx" tvg-name="A MAS MTY" tvg-logo="http://198.211.98.67/aleph-news-wh-fcm/feed/Android/backdrop_monterrey.jpg" group-title="MEXICO",AZTECA NORESTE MTY
+#EXTINF:-1 tvg-id="AmasMTY.mx" tvg-name="A MAS MTY" tvg-logo="http://198.211.98.67/aleph-news-wh-fcm/feed/Android/backdrop_monterrey.jpg" group-title="MONTERREY",AZTECA NORESTE MTY
 https://view.dacast.com/d7f35e29-5939-66ac-a823-7a68cf79aa75-live-4fc786b7-431e-b879-d9cb-9bca44d62156/adaptive.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525568-8c.png" group-title="MEXICO",MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" group-title="MEXICO",MULTIMEDIOS MTY DELAY
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" group-title="MONTERREY",MULTIMEDIOS MTY DELAY
 https://mdstrm.com/live-stream-playlist/67b0cd1d72d61c6acc069916.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS LAGUNA
+#EXTINF:-1 group-title="MONTERREY",MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS GDL
+#EXTINF:-1 group-title="MONTERREY",MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-logo="https://i.ibb.co/K2Q0GDg/azteca.png" group-title="MEXICO",AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -83,15 +83,15 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="MEXICO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="noimage.png" group-title="MEXICO",TELERITMO
+#EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="noimage.png" group-title="MUSICA",TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgmvshub.akamaized.net/images/1084/CH_LOGO/60/60/0/0/3231139907113402.png" group-title="MEXICO",TRACE LATINA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgmvshub.akamaized.net/images/1084/CH_LOGO/60/60/0/0/3231139907113402.png" group-title="MUSICA",TRACE LATINA
 https://tracelatina.akamaized.net/hls/live/2104849/tracelatina/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgmvshub.akamaized.net/images/1083/CH_LOGO/60/60/0/0/161864530779243.png" group-title="MEXICO",TRACE URBAN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgmvshub.akamaized.net/images/1083/CH_LOGO/60/60/0/0/161864530779243.png" group-title="MUSICA",TRACE URBAN
 https://traceurban.akamaized.net/hls/live/2104850/traceurban/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="noimage.png" group-title="MEXICO",EXATV
+#EXTINF:-1 tvg-id="" tvg-logo="noimage.png" group-title="MUSICA",EXATV
 https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
-#EXTINF:-1 tvg-id="" tvg-logo="noimage.png" group-title="MEXICO",LOVE NATURE
+#EXTINF:-1 tvg-id="" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO",LOVE NATURE
 https://dbrb49pjoymg4.cloudfront.net/10001/99991775/hls/playlist.m3u8?ads.xumo_channelId=99991775
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/thumbnail-square_1200x1200_v5.jpg" group-title="PELICULAS",Popcorn Central(6.4)
 https://freetv.stream.olympusatmedia.com/index.m3u8
