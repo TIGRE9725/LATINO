@@ -61,7 +61,7 @@ https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playl
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="Clarosports.mx" tvg-logo="https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png" group-title="DEPORTES",Claro sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA884/0-16x9.jpg?width=770&updatedTime=0&dt=Web" group-title="MEXICO",Canela Deportes
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA884/0-16x9.jpg?width=770&updatedTime=0&dt=Web" group-title="DEPORTES",Canela Deportes
 https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA
 https://apollo.production-public.tubi.io/live/bein-sports-xtra-VRe7uC.m3u8
