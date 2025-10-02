@@ -151,7 +151,7 @@ https://cdn-edge1.cef-technology.com/bpk-tv/bitme/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/unicable/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1558/CH_LOGO/60/60/0/0/39210333072793.png" group-title="DEPORTES",ADRENALINA
 https://cdn-edge1.cef-technology.com/bpk-tv/adrenalina/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1502/CH_LOGO/60/60/0/0/1327984607703.png" group-title="PELICULAS",DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1502/CH_LOGO/60/60/0/0/1327984607703.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 https://cdn-edge1.cef-technology.com/bpk-tv/distrito_comedia/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1527/CH_LOGO/60/60/0/0/3444592707137.png" group-title="PELICULAS",DE PELICULA
 https://cdn-edge1.cef-technology.com/bpk-tv/de_pelicula/cdn_2/index.mpd
@@ -177,7 +177,7 @@ https://cdn-edge1.cef-technology.com/bpk-tv/milenio/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/imagen_tv/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1568/CH_LOGO/60/60/0/0/24426035073282.png" group-title="MEXICO",ADN 40 SD
 https://cdn-edge1.cef-technology.com/bpk-tv/adn_40/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1503/CH_LOGO/60/60/0/0/36455147074217.png" group-title="PELICULAS",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1503/CH_LOGO/60/60/0/0/36455147074217.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD
 https://cdn-edge1.cef-technology.com/bpk-tv/cc/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1535/CH_LOGO/60/60/0/0/2294895407442.png" group-title="PELICULAS",TNT HD
 https://cdn-edge1.cef-technology.com/bpk-tv/zu_tnt/cdn_2/index.mpd
@@ -217,23 +217,23 @@ https://cdn-edge1.cef-technology.com/bpk-tv/universal/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_studio/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1855/CH_LOGO/60/60/0/0/62358004078383.png" group-title="PELICULAS",ADULT SWIM HD
 https://cdn-edge1.cef-technology.com/bpk-tv/adult_swim/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1539/CH_LOGO/60/60/0/0/6068125507246.png" group-title="PELICULAS",HBO HD
+#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1539/CH_LOGO/60/60/0/0/6068125507246.png" group-title="PREMIUM",HBO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/hbo/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1540/CH_LOGO/60/60/0/0/15453684072900.png" group-title="PELICULAS",HBO2 HD
+#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1540/CH_LOGO/60/60/0/0/15453684072900.png" group-title="PREMIUM",HBO2 HD
 https://cdn-edge1.cef-technology.com/bpk-tv/hbo_2/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1542/CH_LOGO/60/60/0/0/9302991207335.png" group-title="PELICULAS",HBO FAMILY HD
+#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1542/CH_LOGO/60/60/0/0/9302991207335.png" group-title="PREMIUM",HBO FAMILY HD
 https://cdn-edge1.cef-technology.com/bpk-tv/hbo_family/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1543/CH_LOGO/60/60/0/0/82703682072688.png" group-title="PELICULAS",HBO XTREME HD
+#EXTINF:-1 tvg-id="Hbo.mx" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1543/CH_LOGO/60/60/0/0/82703682072688.png" group-title="PREMIUM",HBO XTREME HD
 https://cdn-edge1.cef-technology.com/bpk-tv/hbo_xtreme/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1545/CH_LOGO/60/60/0/0/75915293077076.png" group-title="PELICULAS",UNIVERSAL PREMIER
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1545/CH_LOGO/60/60/0/0/75915293077076.png" group-title="PREMIUM",UNIVERSAL PREMIER
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_premier/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1546/CH_LOGO/60/60/0/0/20322300077666.png" group-title="PELICULAS",UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1546/CH_LOGO/60/60/0/0/20322300077666.png" group-title="PREMIUM",UNIVERSAL CINEMA
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_cinema/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1547/CH_LOGO/60/60/0/0/82776850077515.png" group-title="PELICULAS",UNIVERSAL COMEDY
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1547/CH_LOGO/60/60/0/0/82776850077515.png" group-title="PREMIUM",UNIVERSAL COMEDY
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_comedy/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1548/CH_LOGO/60/60/0/0/12089380077075.png" group-title="PELICULAS",UNIVERSAL CRIME
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1548/CH_LOGO/60/60/0/0/12089380077075.png" group-title="PREMIUM",UNIVERSAL CRIME
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_crime/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1549/CH_LOGO/60/60/0/0/34529005077518.png" group-title="PELICULAS",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1549/CH_LOGO/60/60/0/0/34529005077518.png" group-title="PREMIUM",UNIVERSAL REALITY
 https://cdn-edge1.cef-technology.com/bpk-tv/universal_reality/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1499/CH_LOGO/60/60/0/0/11186000072879.png" group-title="PELICULAS",LIFETIME HD
 https://cdn-edge1.cef-technology.com/bpk-tv/life_time/cdn_2/index.mpd
