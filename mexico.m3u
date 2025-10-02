@@ -71,6 +71,28 @@ https://azt-cz-runtime.otteravision.com/azt/cz/cz.m3u8
 https://azt-cl-runtime.otteravision.com/azt/cl/cl.m3u8
 #EXTINF:-1 tvg-id="Imagentv.mx" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/imagen_c_1920x1080_2024.jpg" group-title="MEXICO",ImagenTV+ -1HR
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS SD
+https://cdn-edge1.cef-technology.com/bpk-tv/kids/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1517/CH_LOGO/60/60/0/0/5292566307874.png" group-title="INFANTIL",DISNEY CHANNEL SD
+https://cdn-edge1.cef-technology.com/bpk-tv/zu_disney/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1518/CH_LOGO/60/60/0/0/7532677307817.png" group-title="INFANTIL",DISNEY JR SD
+https://cdn-edge1.cef-technology.com/bpk-tv/disney_jr/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1519/CH_LOGO/60/60/0/0/2752539007297.png" group-title="INFANTIL",NICK SD
+https://cdn-edge1.cef-technology.com/bpk-tv/nick/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1520/CH_LOGO/60/60/0/0/80112659071227.png" group-title="INFANTIL",NICK JR SD
+https://cdn-edge1.cef-technology.com/bpk-tv/nick_jr/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1524/CH_LOGO/60/60/0/0/3458997307402.png" group-title="INFANTIL",CARTOON NETWORK HD
+https://cdn-edge1.cef-technology.com/bpk-tv/zu_cartoon/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1525/CH_LOGO/60/60/0/0/3817151507422.png" group-title="INFANTIL",CARTOONITO HD
+https://cdn-edge1.cef-technology.com/bpk-tv/cartoonito/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1522/CH_LOGO/60/60/0/0/73504675073136.png" group-title="INFANTIL",ONCE NIÑOS SD
+https://cdn-edge1.cef-technology.com/bpk-tv/once_ninos/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1526/CH_LOGO/60/60/0/0/2093337107695.png" group-title="INFANTIL",BABY TV SD
+https://cdn-edge1.cef-technology.com/bpk-tv/baby_tv/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1523/CH_LOGO/60/60/0/0/56302170073271.png" group-title="INFANTIL",ZOOMOO HD
+https://cdn-edge1.cef-technology.com/bpk-tv/zoomoo/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1845/CH_LOGO/60/60/0/0/62242029078010.png" group-title="INFANTIL",PLIM PLIM HD
+https://cdn-edge1.cef-technology.com/bpk-tv/plim_plim/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1559/CH_LOGO/60/60/0/0/5384649507947.png" group-title="DEPORTES",TUDN
 https://cdn-edge1.cef-technology.com/bpk-tv/tudn/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1550/CH_LOGO/60/60/0/0/81452099071150.png" group-title="DEPORTES",ESPN HD
@@ -233,28 +255,6 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="PELICULAS",RunTime
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS SD
-https://cdn-edge1.cef-technology.com/bpk-tv/kids/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1517/CH_LOGO/60/60/0/0/5292566307874.png" group-title="INFANTIL",DISNEY CHANNEL SD
-https://cdn-edge1.cef-technology.com/bpk-tv/zu_disney/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1518/CH_LOGO/60/60/0/0/7532677307817.png" group-title="INFANTIL",DISNEY JR SD
-https://cdn-edge1.cef-technology.com/bpk-tv/disney_jr/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1519/CH_LOGO/60/60/0/0/2752539007297.png" group-title="INFANTIL",NICK SD
-https://cdn-edge1.cef-technology.com/bpk-tv/nick/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1520/CH_LOGO/60/60/0/0/80112659071227.png" group-title="INFANTIL",NICK JR SD
-https://cdn-edge1.cef-technology.com/bpk-tv/nick_jr/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1524/CH_LOGO/60/60/0/0/3458997307402.png" group-title="INFANTIL",CARTOON NETWORK HD
-https://cdn-edge1.cef-technology.com/bpk-tv/zu_cartoon/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1525/CH_LOGO/60/60/0/0/3817151507422.png" group-title="INFANTIL",CARTOONITO HD
-https://cdn-edge1.cef-technology.com/bpk-tv/cartoonito/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1522/CH_LOGO/60/60/0/0/73504675073136.png" group-title="INFANTIL",ONCE NIÑOS SD
-https://cdn-edge1.cef-technology.com/bpk-tv/once_ninos/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1526/CH_LOGO/60/60/0/0/2093337107695.png" group-title="INFANTIL",BABY TV SD
-https://cdn-edge1.cef-technology.com/bpk-tv/baby_tv/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1523/CH_LOGO/60/60/0/0/56302170073271.png" group-title="INFANTIL",ZOOMOO HD
-https://cdn-edge1.cef-technology.com/bpk-tv/zoomoo/cdn_2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1845/CH_LOGO/60/60/0/0/62242029078010.png" group-title="INFANTIL",PLIM PLIM HD
-https://cdn-edge1.cef-technology.com/bpk-tv/plim_plim/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1509/CH_LOGO/60/60/0/0/15272029073062.png" group-title="ENTRETENIMIENTO",DISCOVERY HD
 https://cdn-edge1.cef-technology.com/bpk-tv/discovery/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1490/CH_LOGO/60/60/0/0/7554374007436.png" group-title="ENTRETENIMIENTO",DISCOVERY ID
