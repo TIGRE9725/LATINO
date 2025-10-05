@@ -61,8 +61,6 @@ https://cdn-edge1.cef-technology.com/bpk-tv/imagen_tv/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/adn_40/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/ISYhR90.png" group-title="MEXICO",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO",LOVE NATURE
-https://dbrb49pjoymg4.cloudfront.net/10001/99991775/hls/playlist.m3u8?ads.xumo_channelId=99991775
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/aztecauno_c_1920x1080.jpg" group-title="MEXICO",AztecaUno-1h
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="Azcorazon.mx" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/1920x1080/corazon_1920x1080.jpg" group-title="MEXICO",Azteca corazon
@@ -163,6 +161,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1521/CH_LOGO/60/60/0/0/62444007071959.png" group-title="INFANTIL",BITME
 https://cdn-edge1.cef-technology.com/bpk-tv/bitme/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO",LOVE NATURE
+https://dbrb49pjoymg4.cloudfront.net/10001/99991775/hls/playlist.m3u8?ads.xumo_channelId=99991775
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1485/CH_LOGO/60/60/0/0/73631184071068.png" group-title="ENTRETENIMIENTO",UNICABLE
 https://cdn-edge1.cef-technology.com/bpk-tv/unicable/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1558/CH_LOGO/60/60/0/0/39210333072793.png" group-title="DEPORTES",ADRENALINA
@@ -305,5 +305,6 @@ https://cdn-edge1.cef-technology.com/bpk-tv/ultra_luna/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_trainment/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1847/CH_LOGO/60/60/0/0/65647323078539.png" group-title="MUSICA",ULTRA CLASICO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_clasico/cdn_2/index.mpd
+
 
 
