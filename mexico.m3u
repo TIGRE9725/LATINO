@@ -91,6 +91,12 @@ https://cdn-edge1.cef-technology.com/bpk-tv/baby_tv/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/zoomoo/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1845/CH_LOGO/60/60/0/0/62242029078010.png" group-title="INFANTIL",PLIM PLIM HD
 https://cdn-edge1.cef-technology.com/bpk-tv/plim_plim/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="DEPORTES",TUDN USA
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/tudn.mpd
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="DEPORTES",TUDN USA OP2
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="DEPORTES" tvg-id="tudn",TUDN USA OP3
+http://198.204.231.170:46201/stream/univisontelemundo/tudn/master.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1559/CH_LOGO/60/60/0/0/5384649507947.png" group-title="DEPORTES",TUDN
 https://cdn-edge1.cef-technology.com/bpk-tv/tudn/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1550/CH_LOGO/60/60/0/0/81452099071150.png" group-title="DEPORTES",ESPN HD
@@ -305,6 +311,7 @@ https://cdn-edge1.cef-technology.com/bpk-tv/ultra_luna/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_trainment/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1847/CH_LOGO/60/60/0/0/65647323078539.png" group-title="MUSICA",ULTRA CLASICO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_clasico/cdn_2/index.mpd
+
 
 
 
