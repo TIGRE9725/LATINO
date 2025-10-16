@@ -1,5 +1,26 @@
 [
-        {
+    {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animeav1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 16369,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 5,
+        "internalName": "Animeav1",
+        "description": "(Mexican) Anime Extension",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animeav1.cs3",
+        "name": "Animeav1"
+    },
+       {
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.bz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
