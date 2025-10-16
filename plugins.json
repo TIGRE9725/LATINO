@@ -1,9 +1,9 @@
 [
-        {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 17996,
+        "fileSize": 18016,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -22,7 +22,7 @@
         "iconUrl": "https://www.anime-jl.net/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 12747,
+        "fileSize": 12770,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -37,7 +37,6 @@
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/AnimeJlProvider.cs3",
         "name": "AnimeJlProvider"
     },
-    
     {
         "iconUrl": "https://www.cablevisionhd.com/imge/cablevisionhd.png",
         "apiVersion": 1,
@@ -75,11 +74,30 @@
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CinecalidadProvider.cs3",
         "name": "CinecalidadProvider"
     },
-     {
+    {
+        "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 17480,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "redblacker8"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CineHdPlusProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CineHdPlusProvider.cs3",
+        "name": "CineHdPlusProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 20608,
+        "fileSize": 22775,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -89,7 +107,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "CuevanaProvider",
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CuevanaProvider.cs3",
         "name": "CuevanaProvider"
@@ -98,7 +116,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 32307,
+        "fileSize": 32335,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -134,7 +152,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=entrepeliculasyseries.nz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 16641,
+        "fileSize": 23050,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -144,7 +162,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "EntrepeliculasyseriesProvider",
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/EntrepeliculasyseriesProvider.cs3",
         "name": "EntrepeliculasyseriesProvider"
@@ -153,7 +171,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=estrenosdoramas.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 18764,
+        "fileSize": 18777,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -171,7 +189,7 @@
         "iconUrl": "https://hdfullcdn.cc/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 21207,
+        "fileSize": 21237,
         "status": 1,
         "language": "es",
         "authors": [
@@ -190,7 +208,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 30242,
+        "fileSize": 30283,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -263,7 +281,7 @@
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/MundoDonghuaProvider.cs3",
         "name": "MundoDonghuaProvider"
     },
-        {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelispedia.is&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
@@ -286,7 +304,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 15724,
+        "fileSize": 16223,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -298,7 +316,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "Pelisplus4KProvider",
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/Pelisplus4KProvider.cs3",
         "name": "Pelisplus4KProvider"
@@ -307,7 +325,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.nu&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 18051,
+        "fileSize": 24559,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -317,7 +335,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "PelisplusHDProvider",
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PelisplusHDProvider.cs3",
         "name": "PelisplusHDProvider"
@@ -326,7 +344,7 @@
         "iconUrl": "https://pelis-plus.icu/assets/img/ic/favicon-96x96.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 21403,
+        "fileSize": 24499,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -336,10 +354,28 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "PelisplusOrgProvider",
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PelisplusOrgProvider.cs3",
         "name": "PelisplusOrgProvider"
+    {
+        "iconUrl": "https://playdede.in/public/assets/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 14436,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "redblacker8"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PlaydedeProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PlaydedeProvider.cs3",
+        "name": "PlaydedeProvider"
     },
     {
         "iconUrl": "https://reydonghua.org/public/favicon.ico?v=4.71",
@@ -382,7 +418,7 @@
         "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 17969,
+        "fileSize": 24124,
         "status": 1,
         "language": "mx",
         "authors": [
@@ -394,7 +430,7 @@
             "Anime",
             "Cartoon"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "SoloLatinoProvider",
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/SoloLatinoProvider.cs3",
         "name": "SoloLatinoProvider"
@@ -403,7 +439,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tioanime.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-        "fileSize": 16224,
+        "fileSize": 16234,
         "status": 1,
         "language": "es",
         "authors": [
