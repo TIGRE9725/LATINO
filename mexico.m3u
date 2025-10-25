@@ -91,10 +91,14 @@ https://cdn-edge1.cef-technology.com/bpk-tv/baby_tv/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/zoomoo/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1845/CH_LOGO/60/60/0/0/62242029078010.png" group-title="INFANTIL",PLIM PLIM HD
 https://cdn-edge1.cef-technology.com/bpk-tv/plim_plim/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MEXICO",FOX DEPORTES VPN
+https://corsproxy.io/https://foxvideo-sports-cf.video.fox/e469c4307d61ada2c5bc90936c11f79079b1f49b.20250517072856/live/deportes-ue1/deportes-ue1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="DEPORTES",TUDN USA
-https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/tudn.mpd
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/tudn.mpd
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="DEPORTES",TUDN USA OP2
-https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="UNIVISION (VLC)" tvg-id="tudn",TUDN USA OP3(VLC)
+http://198.204.231.170:46201/stream/univisontelemundo/tudn/master.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1559/CH_LOGO/60/60/0/0/5384649507947.png" group-title="DEPORTES",TUDN
 https://cdn-edge1.cef-technology.com/bpk-tv/tudn/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1550/CH_LOGO/60/60/0/0/81452099071150.png" group-title="DEPORTES",ESPN HD
@@ -309,6 +313,104 @@ https://cdn-edge1.cef-technology.com/bpk-tv/ultra_luna/cdn_2/index.mpd
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_trainment/cdn_2/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://edgelb.stargroup.com.mx:9002/images/1847/CH_LOGO/60/60/0/0/65647323078539.png" group-title="MUSICA",ULTRA CLASICO HD
 https://cdn-edge1.cef-technology.com/bpk-tv/ultra_clasico/cdn_2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="UNIVISION-NOW",Unimas East
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/umaeast.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="UNIVISION-NOW", UniMas east OP2(m3u8)
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="UNIVISION (VLC)" tvg-id="unimaseast",Unimas East OP3(VLC)
+http://198.204.231.170:46201/stream/univisontelemundo/unimaseast/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="UNIVISION-NOW",Unimas West
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/umawest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="UNIVISION-NOW", UniMas west OP2(m3u8)
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="UNIVISION (VLC)" tvg-id="unimaswest",Unimas West OP3(VLC)
+http://198.204.231.170:46201/stream/univisontelemundo/unimaswest/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION-NOW",Univision East
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/unieast.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION-NOW", Univision east OP2(m3u8)
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION (VLC)" tvg-id="univisioneast",Univision East OP3(VLC)
+http://198.204.231.170:46201/stream/univisontelemundo/univisioneast/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION-NOW",Univision West
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/uniwest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION-NOW", Univision West OP2(m3u8)
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION (VLC)" tvg-id="univisionwest",Univision West OP3(VLC)
+http://198.204.231.170:46201/stream/univisontelemundo/univisionwest/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png" group-title="UNIVISION-NOW",GALAVISION EAST
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/galaeast.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png" group-title="UNIVISION-NOW", Galavision east OP2(m3u8)
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png" group-title="UNIVISION (VLC)" tvg-id="galavisineast",GALAVISIÓN EAST OP3(VLC)
+http://198.204.231.170:46201/stream/univisontelemundo/galavisineast/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png" group-title="UNIVISION-NOW",GALAVISION WEST
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/galawest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png" group-title="UNIVISION-NOW", Galavision west OP2(m3u8)
+https://corsproxy.io/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png" group-title="UNIVISION (VLC)" tvg-id="galavisinwest",GALAVISIÓN WEST OP3(VLC)
+http://198.204.231.170:46201/stream/univisontelemundo/galavisinwest/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="UNIVISION", NBC Universo (East) 
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="SLING" tvg-id="sling/ae24d0c4ed754233809f892f95d55a2a",UNIVERSO
+http://198.204.231.170:46201/stream/sling/ae24d0c4ed754233809f892f95d55a2a/master.m3u8
+#EXTINF:-1 group-title="SLING" tvg-id="sling/35b320ac77ce4a2fbaf685e401933dc1",USA
+http://198.204.231.170:46201/stream/sling/35b320ac77ce4a2fbaf685e401933dc1/master.m3u8
+#EXTINF:-1 group-title="SLING" tvg-id="sling/937f07c28c7f4e3bbab7870347d074c0",Estrella TV
+http://198.204.231.170:46201/stream/sling/937f07c28c7f4e3bbab7870347d074c0/master.m3u8
+#EXTINF:-1 group-title="SLING" tvg-id="sling/ca0cad8dbb4a4e68962810d8a6aa8b6a",ESPN USA
+http://198.204.231.170:46201/stream/sling/ca0cad8dbb4a4e68962810d8a6aa8b6a/master.m3u8
+#EXTINF:-1 group-title="SLING" tvg-id="sling/2ad976f9aa4b4796a52ae3d64b50db9c",ESPN2 USA
+http://198.204.231.170:46201/stream/sling/2ad976f9aa4b4796a52ae3d64b50db9c/master.m3u8
+#EXTINF:-1 group-title="SLING" tvg-id="sling/591d24e3b5894961b4c9e9a78c454db6",ESPN Deportes
+http://198.204.231.170:46201/stream/sling/591d24e3b5894961b4c9e9a78c454db6/master.m3u8
+#EXTINF:-1 group-title="SLING" tvg-id="sling/0c6964d26bcd450cb7d8c8af10b9da20",FOX Sports 1
+http://198.204.231.170:46201/stream/sling/0c6964d26bcd450cb7d8c8af10b9da20/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/a2ccdcdec4fc41c7aa28462ea0e9c6c4",ViX Premium Deportes 1
+http://198.204.231.170:46201/stream/sling/a2ccdcdec4fc41c7aa28462ea0e9c6c4/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/95f6f672b5ae472f8dacb3b7ad38bb86",ViX Premium Deportes 2
+http://198.204.231.170:46201/stream/sling/95f6f672b5ae472f8dacb3b7ad38bb86/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/b939fa5b91f14c3782a86f270d3d471a",ViX Premium Deportes 3
+http://198.204.231.170:46201/stream/sling/b939fa5b91f14c3782a86f270d3d471a/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/e8b446273dd147e39ab8c93e639d5b8d",ViX Premium Deportes 4
+http://198.204.231.170:46201/stream/sling/e8b446273dd147e39ab8c93e639d5b8d/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/da0db24a949a44eaac997702104d47df",ViX Premium Deportes 5
+http://198.204.231.170:46201/stream/sling/da0db24a949a44eaac997702104d47df/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/001d125f18384246be2a9706618c6bda",ViX Premium Deportes 6
+http://198.204.231.170:46201/stream/sling/001d125f18384246be2a9706618c6bda/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/a5a3c4b9396447e7813e6d5cb4c328d5",ViX Premium Deportes 7
+http://198.204.231.170:46201/stream/sling/a5a3c4b9396447e7813e6d5cb4c328d5/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/14adfec0aa10452a8ced4693389adfd9",ViX Premium Deportes 8
+http://198.204.231.170:46201/stream/sling/14adfec0aa10452a8ced4693389adfd9/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/dcbba33fbe8b4f6aa68ea15184e90ea6",ViX Premium Deportes 9
+http://198.204.231.170:46201/stream/sling/dcbba33fbe8b4f6aa68ea15184e90ea6/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/2cd9503ec7c848ebbb4a2f79ccb4a566",ViX Premium Deportes 10
+http://198.204.231.170:46201/stream/sling/2cd9503ec7c848ebbb4a2f79ccb4a566/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/fc6b3b9cab774f8d9765031f11233c97",ViX Premium Deportes 11
+http://198.204.231.170:46201/stream/sling/fc6b3b9cab774f8d9765031f11233c97/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/ae949b2ea85c45e69b11ca4d3688d2a3",ViX Premium Deportes 12
+http://198.204.231.170:46201/stream/sling/ae949b2ea85c45e69b11ca4d3688d2a3/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/c208889e396d41338f03bea68aea896b",ViX Premium Deportes 13
+http://198.204.231.170:46201/stream/sling/c208889e396d41338f03bea68aea896b/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/f8b6f690687b45849ae2a80af15dbb95",ViX Premium Deportes 14
+http://198.204.231.170:46201/stream/sling/f8b6f690687b45849ae2a80af15dbb95/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/9307c5fe7389436ab5e27479a95ba0a7",ViX Premium Deportes 15
+http://198.204.231.170:46201/stream/sling/9307c5fe7389436ab5e27479a95ba0a7/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/eec786c5d31743e0b06f58f4d9ba7471",ViX Premium Deportes 16
+http://198.204.231.170:46201/stream/sling/eec786c5d31743e0b06f58f4d9ba7471/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/d14019f58b0c485a8fc6b0cdb9570e48",ViX Premium Deportes 17
+http://198.204.231.170:46201/stream/sling/d14019f58b0c485a8fc6b0cdb9570e48/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/57e4b88cd5bc45cb96d98c0bed0e0859",ViX Premium Deportes 18
+http://198.204.231.170:46201/stream/sling/57e4b88cd5bc45cb96d98c0bed0e0859/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/f6a87c2fd99b41dbb55de484849f49e4",ViX Premium Deportes 19
+http://198.204.231.170:46201/stream/sling/f6a87c2fd99b41dbb55de484849f49e4/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/8738d27b8c8544b6b095034af9db15e4",ViX Premium Deportes 20
+http://198.204.231.170:46201/stream/sling/8738d27b8c8544b6b095034af9db15e4/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/67d09f751cce45de811cb269fc2b071e",ViX Premium Deportes 21
+http://198.204.231.170:46201/stream/sling/67d09f751cce45de811cb269fc2b071e/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/e8606f19e6c3408fad8faac1f61d393c",ViX Premium Deportes 22
+http://198.204.231.170:46201/stream/sling/e8606f19e6c3408fad8faac1f61d393c/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" group-title="SLING" tvg-id="sling/44df6d1efa654a328339cbfb57a55f30",ViX Premium Deportes 23
+http://198.204.231.170:46201/stream/sling/44df6d1efa654a328339cbfb57a55f30/master.m3u8
 
 
 
