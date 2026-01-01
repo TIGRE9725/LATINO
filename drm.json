@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 17480,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "redblacker8"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DRMProvider",
+        "url": "https://raw.githubusercontent.com/TIGRE9725/LATINO/refs/heads/main/DRM.cs3",
+        "name": "DRMProvider"
+    }
+]
