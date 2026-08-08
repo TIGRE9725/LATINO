@@ -4,7 +4,7 @@
   "iconUrl": "https://raw.githubusercontent.com/TIGRE9725/LATINO/master/assets/repoIcon.jpg",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/redblacker8/storm-ext/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/redblacker8/storm-ext/refs/heads/builds/plugins.json",
     "https://raw.githubusercontent.com/TIGRE9725/LATINO/refs/heads/main/IPTV.json",
     "https://raw.githubusercontent.com/TIGRE9725/LATINO/refs/heads/main/PeliculasFlix.json"
   ]
