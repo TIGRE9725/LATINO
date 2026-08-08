@@ -17,5 +17,24 @@
         "description": "General IPTV player. Add a list in the settings and you'll see it in the plugins list in the home",
         "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
         "name": "IPTV"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "YouTube",
+        "internalName": "YouTube",
+        "authors": [
+            "doGior"
+        ],
+        "description": "Videos, playlists and channels from YouTube",
+        "fileSize": 40001,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+        "tvTypes": [
+            "Others"
+        ],
+        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-5abdeac48b9d4cbdeccd3b4b5944462906599061ac93088addb60f24dd3608fa"
     }
 ]
