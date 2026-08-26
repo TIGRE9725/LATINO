@@ -1,22 +1,23 @@
 [
         {
-        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 36639,
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
         "status": 1,
+        "version": 1,
+        "name": "IPTV",
+        "internalName": "IPTV",
         "authors": [
             "anhdaden",
             "dogior"
         ],
+        "description": "General IPTV player. Add a list in the settings and you'll see it in the plugins list in the home",
+        "fileSize": 40007,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
         "tvTypes": [
             "Live"
         ],
-        "version": 1,
-        "internalName": "IPTV",
-        "description": "General IPTV player. Add a list in the settings and you'll see it in the plugins list in the home",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
-        "name": "IPTV"
+        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-044395200b35f3497926e5d92cce39c2639fe9e48b21cd7a37da28cbddcdad82"
     },
     {
         "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
