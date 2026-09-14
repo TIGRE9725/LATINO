@@ -10,7 +10,7 @@
             "ByAyzen"
         ],
         "description": "Disfruta de los \u00faltimos episodios y animes agregados en HD y Sub Espa\u00f1ol. Miles de series, pel\u00edculas y OVAs disponibles para ver online totalmente gratis.",
-        "fileSize": 27752,
+        "fileSize": 27726,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "mx",
         "tvTypes": [
@@ -18,19 +18,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
         "apiVersion": 1,
-        "fileHash": "sha256-5f7bfbf2293d708c026fc2c1c137f8dc636e2d654d4e8ffdbe8d7cc295f234c6"
+        "fileHash": "sha256-fcf47ba472388c30843a5878f370987f58ceea462597afcadf913dd0ad1d6798"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
         "status": 1,
-        "version": 7,
+        "version": 9,
         "name": "AnimeYTX",
         "internalName": "AnimeYTX",
         "authors": [
             "ByAyzen"
         ],
         "description": "\u00danete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido m\u00e1s popular de la animaci\u00f3n japonesa.",
-        "fileSize": 39103,
+        "fileSize": 52269,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "mx",
         "tvTypes": [
@@ -38,7 +38,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-ffa6f188d9900efd86ce4e212369600d05cd783ff100425c284a3bb426c13395"
+        "fileHash": "sha256-f912ec57c85b928ddd6a9626bb4fedeb82e3ab76f71b5b3c17dcc925d8ded227"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DoramasLatinoX.cs3",
@@ -58,7 +58,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-75ed726f6660d713615ae0b3ab1266050a0e440a89a0574c6d2d68a75520c3ba"
+        "fileHash": "sha256-432f079bfa4b9efe2812084e43667a80f9fcf8adc5b1dff267b04a4f31bf6d44"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Flixlatam.cs3",
@@ -70,7 +70,7 @@
             "ByAyzen"
         ],
         "description": "Mira tus Series, Pel\u00edculas y Animes en Latino Online!",
-        "fileSize": 41694,
+        "fileSize": 41676,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "mx",
         "tvTypes": [
@@ -78,19 +78,19 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-7ba341ca3b85e8a47b209e1a473def5dd42fe1ac400d1d7d336949c762581d71"
+        "fileHash": "sha256-eb6824a7efe8f78ae9410f2ba5e0b807fde9d9e7eecf21699923ebdc6693dae6"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Gnulahd.cs3",
         "status": 1,
-        "version": 8,
+        "version": 10,
         "name": "Gnulahd",
         "internalName": "Gnulahd",
         "authors": [
             "ByAyzen"
         ],
         "description": "GnulaHD",
-        "fileSize": 32956,
+        "fileSize": 37159,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "mx",
         "tvTypes": [
@@ -100,7 +100,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-df26feffd07a4a0607bf112037f29d9472e9042b58d3a7a3f802679c51a08482"
+        "fileHash": "sha256-a8be877d161ef649cc7ba25c70beb0c0dcbe1786d491889f8e6b883eb23f622f"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Henaojara.cs3",
@@ -126,14 +126,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Latanime.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "Latanime",
         "internalName": "Latanime",
         "authors": [
             "ByAyzen"
         ],
         "description": "odos los anime con Doblaje Latino/Castellano solo aqu\u00ed en Latanime. Animes de estreno, subtitulado al espa\u00f1ol y con Audio Latino o Castellano, Online, HD y gratis. Para descargar por MEGA, Mediafire o Drive sin limites.",
-        "fileSize": 17440,
+        "fileSize": 21666,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "mx",
         "tvTypes": [
@@ -141,19 +141,19 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://latanime.org/&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-71ab516a8c56a23c060780ae27f80ddb4ded4ef7c2594116365923db0487abaa"
+        "fileHash": "sha256-e87cee1ce0161273b23a45c73b2de3cea955eb4ddb98cd82c0232313e66751e7"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OK.cs3",
         "status": 1,
-        "version": 4,
+        "version": 8,
         "name": "OK",
         "internalName": "OK",
         "authors": [
             "ByAyzen"
         ],
         "description": "OKRU Videos.",
-        "fileSize": 25762,
+        "fileSize": 32302,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "ru",
         "tvTypes": [
@@ -162,19 +162,19 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-2e2296ca953ef1529c7042483f1e142e006f8be2a0a0d978b58c657a3c68ca22"
+        "fileHash": "sha256-f79349cf015293af149f239964fb17d14c6ff682c0f1f21e9a5f902001efa965"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Streamed.cs3",
         "status": 1,
-        "version": 27,
+        "version": 29,
         "name": "Streamed",
         "internalName": "Streamed",
         "authors": [
             "kraptor"
         ],
         "description": "Streamed ile Canl\u0131 Spor Yay\u0131nlar\u0131n\u0131 \u0130zleyebilirsiniz.",
-        "fileSize": 32077,
+        "fileSize": 31145,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "en",
         "tvTypes": [
@@ -182,6 +182,6 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-d18942e5cf2402660d89ed9636d6e483fe057ed4eb86a4c005d69fb176acec84"
+        "fileHash": "sha256-3ac142f8ccfcc3be876418f9034e982c9753d29ee1fe411dfebcbd6048359164"
     }
 ]
