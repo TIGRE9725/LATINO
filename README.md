@@ -8,6 +8,8 @@ https://github.com/phisher98/cloudstream-extensions-phisher
 
 https://github.com/Stormunblessed/storm-ext
 
+https://github.com/Kraptor123/Cs-Karma
+
 https://github.com/doGior/doGiorsHadEnough
 
 https://codeberg.org/frezza147/test
