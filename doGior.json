@@ -22,20 +22,20 @@
     {
         "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "YouTube",
         "internalName": "YouTube",
         "authors": [
             "doGior"
         ],
         "description": "Videos, playlists and channels from YouTube",
-        "fileSize": 40001,
+        "fileSize": 45230,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
         "tvTypes": [
             "Others"
         ],
         "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5abdeac48b9d4cbdeccd3b4b5944462906599061ac93088addb60f24dd3608fa"
+        "fileHash": "sha256-577aad4b037e48ea46c6663a49b47d681014227866eb1980327ba071642c5198"
     }
 ]
